@@ -46,7 +46,7 @@ I just had to reformat my MBP over the weekend and it's likely I'll have to do i
 
 ## VsCode Extensions
 
-  ![extensions-list]('./assets/vscode-extensions.png')
+  ![extensions-list](https://github.com/kale-stew/tools-i-use/blob/master/assets/vscode-extensions.png)
 
 ## Bash Profile
 
