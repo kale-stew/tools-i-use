@@ -12,6 +12,7 @@ I just had to reformat my MBP over the weekend and it's likely I'll have to do i
 - [MindNode](https://mindnode.com/mindnode/mac)
 - [Google Earth Pro](https://www.google.com/earth/desktop/)
 - [Postman](https://www.getpostman.com/)
+- [Rocket](http://matthewpalmer.net/rocket/)
 - [Slack](https://slack.com/downloads/)
 - [SQLTabs](https://www.sqltabs.com/)
 - [SelfControl](http://selfcontrolapp.com/)
