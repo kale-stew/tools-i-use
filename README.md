@@ -51,4 +51,10 @@ I just had to reformat my MBP over the weekend and it's likely I'll have to do i
 
 ## Bash Profile
 
-  `export PS1="\W 🔥  "`
+```
+parse_git_branch() {
+    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+}
+
+export PS1="\u \[\033[0;36m\]\W\[\033[0;32m\]\$(parse_git_branch)\[\033[00m\] 🔥  "
+```
